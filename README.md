@@ -1,12 +1,16 @@
 ---
-title: "About"
+title: "Sobre nosotros"
 permalink: "/about/"
 layout: page
 ---
 
-## Installation
+### João - Buena Vista, Bolívia
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+João, 33 anos, actualmente a preparar-se para ir para a Bolivia como voluntário na [Parroquia Los Santos Desposorios](https://www.facebook.com/profile.php?id=100081109998887). Anteriormente desenvolvia software para manutenção proactiva de autocarros e camiões.
+
+### Marta - Benedita, Portugal
+
+
 
 ## Features
 
