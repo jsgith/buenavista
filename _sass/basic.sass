@@ -26,13 +26,14 @@ p
   text-align: justify
 
 a
-  color: $link-color
+  color: #1D62A3
   text-decoration: inherit
+  font-size: 1.3em
   &:hover
     text-decoration: underline
 
 header a, footer a, aside a
-  color: inherit
+  color: black
 
 header time
   color: reduce(100)
@@ -94,3 +95,13 @@ pre
   border-radius: 2px
   margin: 0 .1em
   padding: .2em .4em
+
+$header-link-color: $light
+
+.post-title
+  color: $header-link-color
+  font-size: 1em
+  font-weight: bold
+  text-decoration: none
+  &:hover
+    text-decoration: underline
