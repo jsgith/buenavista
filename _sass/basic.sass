@@ -11,10 +11,20 @@ body
   -webkit-font-smoothing: antialiased
   -moz-osx-font-smoothing: grayscale
 
+.img-nosotros
+  width: 50%
+  max-width: 100%
+  height: auto
+  margin: 0 auto
+  display: block
+  box-shadow:  0 0 5px #1D62A3
+
 @media (prefers-color-scheme: dark)
   body
     background: $dark
     color: $light
+  .img-nosotros
+    box-shadow:  0 0 5px #ffb464
 
 h1, h2, h3, h4, h5, h6
   font-weight: $heading-weight
@@ -28,12 +38,11 @@ p
 a
   color: #1D62A3
   text-decoration: inherit
-  font-size: 1.3em
   &:hover
     text-decoration: underline
 
 header a, footer a, aside a
-  color: black
+  color: inherit
 
 header time
   color: reduce(100)
@@ -96,12 +105,22 @@ pre
   margin: 0 .1em
   padding: .2em .4em
 
-$header-link-color: $light
+.menu-buttons
+  color: black
+  font-size: 1.3em
+  margin: 0.1em -4em 1.5em
+  display: flex
+  gap: 1em
 
-.post-title
-  color: $header-link-color
-  font-size: 1em
-  font-weight: bold
-  text-decoration: none
-  &:hover
-    text-decoration: underline
+.post-footer
+  display: flex
+  justify-content: space-between
+  align-items: center
+  margin-top: 1em
+
+.post-footer .author
+  align-self: flex-end
+  margin-top: 0.5em
+  font-size: 0.9em
+  color: #555
+  font-style: italic
