@@ -12,4 +12,4 @@ João, 33 anos, actualmente a preparar-se para ir para a Bolivia como voluntári
 
 Marta, 33 anos, trabalha no sector das caixilharias em orçamentação e desenvolvimento. Colabora na [Paróquia da Benedita](https://www.paroquiabenedita.pt).
 
-![screenshot](../assets/images/olhalvo_j_m.jpeg)
+![screenshot](../assets/images/olhalvo_j_m.jpeg){:class="img-nosotros"}

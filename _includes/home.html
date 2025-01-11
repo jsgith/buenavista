@@ -3,7 +3,14 @@
   <article>
     {% include meta.html post=post preview=true %}
     {{ post.excerpt }}
-    <div class="more"><a href="{{ post.url | relative_url }}">Leer más</a></div>
+    <div class="post-footer">
+      <div class="more"><a href="{{ post.url | relative_url }}">Leer más</a></div>
+      {% if post.author %}
+        <div class="author">
+          <span>Autor: {{ post.author }}</span>
+        </div>
+    {% endif %}
+    </div>
   </article>
 {% endfor %}
 
