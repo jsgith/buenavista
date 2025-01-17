@@ -17,22 +17,22 @@ Decidimos criar este blog como espaço de partilha das experiências de cada um 
 
 João, 33 anos, actualmente a preparar-se para ir para a Bolivia como voluntário na [Parroquia Los Santos Desposorios](https://www.facebook.com/profile.php?id=100081109998887) no âmbito do projeto de voluntariado de longa duração dos [Missionários do Espírito Santo](https://espiritanos.pt/) e [Solsef](https://espiritanos.pt/solsef/). Anteriormente desenvolvia software para manutenção proactiva de autocarros e camiões.
 
-* Gosta de: andar de bicicleta 
-* Não gosta de: acordar muito cedo
-* Uma frase que diz muito: "Tás a perceber ou não?"
-* Prato favorito: marcha tudo!
-* Animal favorito: marta
-* Se tivesse de partir em missão e levar apenas 3 coisas, seriam: mochila, pão com chouriço e garrafa de água 
+* **Gosta de**: andar de bicicleta 
+* **Não gosta de**: acordar muito cedo
+* **Uma frase que diz muito:** "Tás a perceber ou não?"
+* **Prato favorito:** marcha tudo!
+* **Animal favorito:** marta
+* **Se tivesse de partir em missão e levar apenas 3 coisas, seriam:** mochila, pão com chouriço e garrafa de água 
 
 ### Marta - Benedita, Portugal
 
 Marta, 33 anos, trabalha no sector das caixilharias em orçamentação e desenvolvimento. Colabora na [Paróquia da Benedita](https://www.paroquiabenedita.pt).
 
-* Gosta de: cheiro de livros novos 
-* Não gosta de: estacionar o carro 
-* Uma frase que diz muito: "Queééééé?!!"
-* Prato favorito: salada russa
-* Animal favorito: ouriço-cacheiro
-* Se tivesse de partir em missão e levar apenas 3 coisas, seriam: café, óculos e bloco de notas
+* **Gosta de:** cheiro de livros novos 
+* **Não gosta de:** estacionar o carro 
+* **Uma frase que diz muito:** "Queééééé?!!"
+* **Prato favorito:** salada russa
+* **Animal favorito:** ouriço-cacheiro
+* **Se tivesse de partir em missão e levar apenas 3 coisas, seriam:** café, óculos e bloco de notas
 
 ![screenshot](../assets/images/olhalvo_j_m.jpeg){:class="img-nosotros"}
