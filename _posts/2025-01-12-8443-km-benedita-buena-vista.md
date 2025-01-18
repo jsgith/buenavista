@@ -2,7 +2,7 @@
 title: "8443km: Benedita - Buena Vista"
 layout: post
 published_date: "12 de enero de 2025"
-author: "Marta Santos"
+author: "João e Marta"
 ---
 Olá!
 
