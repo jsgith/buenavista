@@ -14,7 +14,7 @@ De facto, para mim a separação foi (e está a ser) dolorosa. Mas ao mesmo temp
 
 É uma tensão estranha, esta entre uma atitude de esperança, confiança e abandono, mas sem ser infantil, sem passividade e sem me demitir daquilo a que Deus chama e pede. Mas “eu sei em Quem pus a minha confiança e estou certo de que Deus tem o poder para guardar a missão que me foi confiada até ao último dia.” (2 Tm 1, 12) Assim a guarde e viva eu também!
 
-*“Aquilo que Deus quer para nós é muito mais belo do que tudo que poderíamos pedir com a nossa imaginação.”* (Chiara Corbella Petrillo)
+*“Aquilo que Deus quer para nós é muito mais belo do que tudo o que poderíamos pedir com a nossa imaginação.”* (Chiara Corbella Petrillo)
  
 
 ![screenshot](../assets/images/cest_la_confiance.jpg){:class="img-nosotros"}
